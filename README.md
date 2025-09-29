@@ -36,3 +36,4 @@
 - **Aside from heroes, there are also enemies, and friends named after a user input**
 - How can you add more ways to capture everything?
 # 2025-mdia1620-class3activity
+# assignment03
